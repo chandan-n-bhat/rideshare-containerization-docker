@@ -2,8 +2,7 @@
 
 <h2>Assignment 2</h2>
 
-<pre>
   <h3>Microservices:</h3>
-      <p> User Microservice </p>
-      <p> Ride Microservice </p>
-</pre>
+      <p>&nbsp;&nbsp;&nbsp; User Microservice </p>
+      <p>&nbsp;&nbsp;&nbsp; Ride Microservice </p>
+
